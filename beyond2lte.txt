@@ -2,4 +2,4 @@ repo init -u https://github.com/The-Pixel-Project/manifest -b fourteen-qpr3 -g d
 git clone https://github.com/PixelOS-Devices/device_samsung_beyond2lte device/samsung/beyond2lte -b fourteen
 git clone https://github.com/PixelOS-Devices/kernel_samsung_exynos9820 kernel/samsung/exynos9820 -b fourteen
 git clone https://github.com/PixelOS-Devices/vendor_samsung_beyond2lte vendor/samsung/beyond2lte -b fourteen
-git clone https://github.com/Linux4/android_hardware_samsung_slsi-linaro_exynos9820 -b lineage-21 hardware/samsung/slsi-linaro/audio
+git clone https://github.com/Linux4/android_hardware_samsung_slsi-linaro_exynos9820 -b lineage-21 hardware/samsung
